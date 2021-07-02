@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"href="./another.css">
+    <style ></style>
+</head>
+
+
+   
+  <body>
+    <h2>   nayeem al hasan</h2>
+    
+ <table border="1px">  
+<tr>
+ <th> subject code</th>   
+ <th> subject name</th>
+ <th> grade</th>
+ <th> point</th>
+</tr>
+<tr> 
+<td>101</td>
+<td>bangla </td>
+<td> A+</td>
+<td> 5.00</td>
+</tr>
+
+<tr>
+ <td> 103</td>   
+     <td> math</td>
+<td> A+</td>
+<td>5</td>
+</tr>
+<tr><td> 13</td>
+    <td>english</td>
+  <td>A+</td>
+  <td>5.00</td>
+  
+</tr>
+
+<tr>
+    <td>106</td> </td>
+    <td>erabic </td>
+    <td>A+ </td>
+    <td> 4.50</td>
+    
+</tr>
+
+
+ </table>
+ <img src="./color name.jpg" alt="">
+ <footer>nayemalhasan2081@gmail.com</footer>
+ <header>t65tyttr65ruyytrtiyyuitttttttttttt78t6ryuug</header>
+ <h2 class="first-heading"> may name is nayeem </h2>
+ <h3><marquee> this is my first web site</marquee> </h3>
+</body>
+</html>
