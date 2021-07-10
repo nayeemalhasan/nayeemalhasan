@@ -1,0 +1,53 @@
+*{margin: 0px;
+padding: 0px;
+}
+.full-website{text-align: center;
+    color:tomato;
+    width: 1024px;
+   text-decoration:black; 
+    
+}
+.menu{background-color: blue;
+    display: block;
+
+
+}
+.footer{background-color: darkolivegreen;
+}
+.footer-bottom{background-color: blue;
+}
+img{max-width: 100%;
+}
+ul{list-style: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:hotpink;
+    text-align: center;
+
+
+}
+li a{text-decoration:white;
+    
+float: left;
+padding: 14px 16px;
+color: cornsilk;
+text-align: center;
+
+}
+li a:hover{background-color: tomato
+    ;
+}
+
+.footer:hover{background-color:firebrick;
+}
+
+.footer-bottom:hover{background-color:navy;
+}
+.h2{font-size: large;
+
+
+}
+}
+
+}
